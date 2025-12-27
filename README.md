@@ -1,4 +1,4 @@
-# MBA Finance Internship Project – Satnam Bricks Industry
+# BBA Finance Internship Project – Satnam Bricks Industry
 
 ## Overview
 This project was completed as part of my 3-month internship at **Satnam Bricks Industry, Darbhanga**, where I worked as a **Marketing Executive Intern**. The study focuses on market analysis, costing, pricing dynamics, and financial viability of **fly ash bricks** as a sustainable alternative to traditional red bricks.
